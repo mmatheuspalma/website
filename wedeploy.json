@@ -1,0 +1,13 @@
+{
+    "id": "falcon",
+    "env": {
+        "DB_USER": "us3rname",
+        "DB_PASSWORD": "passw0rd"
+    },
+    "port": 8080,
+    "cpu": 2,
+    "scale": 2,
+    "memory": 2048,
+    "volume": "/opt/storage",
+    "customDomains": ["headfalcon.com", "www.headfalcon.com"]
+}

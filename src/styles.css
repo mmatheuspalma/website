@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+@import url('https://necolas.github.io/normalize.css/7.0.0/normalize.css');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+body {
+    background-color: #4E2982;
+    font-family: 'Open sans';
+    color: #ffffff;
+}
